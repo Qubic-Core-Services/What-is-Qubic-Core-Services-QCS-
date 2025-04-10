@@ -1,4 +1,4 @@
-# Who-is-Qubic-Core-Services (QCS)
+# What is Qubic Core Services (QCS)
 QCS is the operational and strategic backbone of the Qubic Network. Elected by the quorum, QCS is accountable for aligning ecosystem-wide priorities, accelerating adoption, and executing key initiatives that contribute to the long-term growth and decentralization of Qubic. They include the workgroups Eocsytem, Marketing, Strategy Finance Operations and Ecoysystem. 
 QCS delivers the below outcomes:
 
